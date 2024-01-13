@@ -36,7 +36,7 @@ setup_directories: ## Create the project directory structure
 setup_initfiles:
 	touch config/config.yaml
 	touch src/app.py
-	touch notebooks/exploratory/nb_descriptive.ipynb
+	touch notebook/exploratory/nb_descriptive.ipynb
 	touch utils/helpers.py
 	touch .gitignore
 	touch run_app.sh
